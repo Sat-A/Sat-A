@@ -1,5 +1,4 @@
 # 👻 Hey, I'm Satyam
-![Cool wallpaper](https://raw.githubusercontent.com/Sat-A/B-eelzebub/main/Horizontal_wall.jpg?raw=true)
 - 🐍 I mainly code in Python for back-end
 - 💻 Experience with front-end web dev and DBMS
 - 📃 LaTeX addict
