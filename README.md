@@ -1,9 +1,24 @@
-# 👻 Hey, I'm Satyam
-- 🐍 I mainly code in Python for back-end
-- 💻 Experience with front-end web dev and DBMS
-- 📃 LaTeX addict
-- 🎒 My github repos are old projects that I worked on in highschool
-<!---
-B-eelzebub/B-eelzebub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Satyam 👋
+
+## About Me
+
+I am a passionate and versatile developer with experience in a wide range of programming languages and technologies. I enjoy solving complex problems through code and have a solid foundation in both software development and web technologies. Beyond coding, I am actively engaged in public speaking and debating.
+
+## Skills
+
+### Programming Languages:
+- **Python**, **MATLAB**, **P4**, **C#**, **C++**
+
+### Technical Skills:
+- Proficient in **Linux** and **Git** workflows
+- Web Development and **SEO**: **HTML**, **CSS**, **JavaScript**
+- Database Management: **SQL**, **MS Access**
+
+### Communication:
+- Experienced debater and public speaker
+- Fluent in **English** and **Hindi**
+
+## Projects and Contributions
+
+You can explore my repositories to see the variety of projects I’ve worked on, ranging from machine learning models and algorithms to full-stack web applications.
+
